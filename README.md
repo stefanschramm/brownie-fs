@@ -23,3 +23,5 @@ sudo apt-get install fuse
 | ...         | ...            | ...                            |
 | ...         | ...            | actual data                    |
 
+Values are little endian 64 bit unsigned integers.
+

@@ -1,5 +1,7 @@
 # brownie-fs
 
+**+++ ABANDONED: It turned out that using this FUSE filesystem probably is too slow for reading the video data for BrowniePlayer +++**
+
 Implementation of a readonly FUSE-"file system" as used in BrowniePlayer images and brownie-configurator.
 
 Build dependency:
